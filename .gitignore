@@ -1,0 +1,22 @@
+# Node
+node_modules/
+
+# Py
+__pycache/
+
+# Libs
+CLIP/
+taming-transformers/
+taming/
+checkpoints/
+
+# Ops
+output/
+samples/
+steps/
+
+# Files
+output.png
+output.mp4
+steps.png
+steps.mp4
