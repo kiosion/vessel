@@ -3,9 +3,10 @@ node_modules/
 
 # Py
 .venv/
-__pycache/
+*/__pycache__/
 
 # Libs
+*/notebooks/
 checkpoints/
 
 # Ops
