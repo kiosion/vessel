@@ -6,9 +6,6 @@ node_modules/
 __pycache/
 
 # Libs
-CLIP/
-taming-transformers/
-taming/
 checkpoints/
 
 # Ops
