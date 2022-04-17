@@ -1,18 +1,18 @@
 # Node
-node_modules/
+**/node_modules
 
 # Py
 .venv/
-**/__pycache__/
+**/__pycache__
 
 # Libs
-**/notebooks/
-checkpoints/
+**/notebooks
+**/checkpoints
 
 # Ops
-output/
-samples/
-steps/
+**/output
+**/samples
+**/steps
 
 # Files
 output.png
