@@ -3,10 +3,10 @@ node_modules/
 
 # Py
 .venv/
-*/__pycache__/
+**/__pycache__/
 
 # Libs
-*/notebooks/
+**/notebooks/
 checkpoints/
 
 # Ops
